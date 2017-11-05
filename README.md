@@ -6,4 +6,4 @@ A simple Websocket server built with Java WebSocket API, providing full-duplex c
 
 ## Acknowledgment
 
-Thanks to Alex Theedom & ![lynda.com](lynda.com) for an amazing course ![WebSocket Programming with Java EE](https://www.lynda.com/Java-tutorials/WebSocket-Programming-Java-EE/574694-2.html)
+Thanks to Alex Theedom & [lynda.com](lynda.com) for an amazing course [WebSocket Programming with Java EE](https://www.lynda.com/Java-tutorials/WebSocket-Programming-Java-EE/574694-2.html)
