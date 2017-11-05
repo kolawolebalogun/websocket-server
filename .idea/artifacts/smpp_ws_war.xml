@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smpp-ws:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ws.war">
+      <element id="artifact" artifact-name="smpp-ws:war exploded" />
+    </root>
+  </artifact>
+</component>
